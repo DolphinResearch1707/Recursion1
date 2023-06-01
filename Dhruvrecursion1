@@ -1,0 +1,22 @@
+/* calculate the factorial of an integer quantity using recursion */
+#include <studio.h>
+long int factorial9int n);  /* function prototype */
+main()
+{
+int n;
+long int factorial(int n);
+/* read in the integer quantity*/
+printf(n=*);
+/*Calculate and display the factorial*/
+printf(*n!=%1d\n*,factorial(n));
+}
+long int factorial(int n)  /* calculate the factorial*/
+}
+long int factorial(int n)   /* calculate the factorial*/
+{
+if (n<=1)
+return(1);
+else
+return(n*factorial(n-1));
+}
+
